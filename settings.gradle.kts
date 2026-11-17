@@ -1,2 +1,2 @@
-rootProject.name = "ListADT"
+//rootProject.name = "SampleJava"
 
